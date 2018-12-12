@@ -1,0 +1,10 @@
+body {
+  margin-left: auto;
+  margin-right: auto;
+  background: #ecf0f1;
+}
+input:hover[type="text"] {
+  background-color:#dcdde1; 
+  border: coral; 
+}
+
